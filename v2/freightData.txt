@@ -1,0 +1,7 @@
+F01,New York,1400
+F04,India,2300
+F05,China,1600
+F09,London,0730
+F36,New York,1400
+F3456,Paris,1720
+F03,fdsf fdsf,2345
